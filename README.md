@@ -10,7 +10,7 @@ A voice-controlled calculator that understands spoken math and commands using sp
 - Voice feedback using text-to-speech
 - Command history with editable log
 
-**Skills to Learn:**
+**Mastered Skills:**
 - Audio signal processing (waveforms, sampling rates, FFT)
 - Speech recognition pipeline understanding
 - Natural language to structured data conversion
