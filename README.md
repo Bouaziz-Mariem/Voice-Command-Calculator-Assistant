@@ -1,4 +1,4 @@
-"# Voice-Command-Calculator-Assistant" 
+## Voice Command Calculator & Assistant
 
 A voice-controlled calculator that understands spoken math and commands using speech recognition, with a clean GUI showing waveform visualizations.
 
@@ -23,4 +23,3 @@ A voice-controlled calculator that understands spoken math and commands using sp
 - `matplotlib` — waveform visualization
 - `tkinter` — GUI interface
 - `re` — expression parsing
-
